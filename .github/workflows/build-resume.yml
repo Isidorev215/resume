@@ -21,7 +21,7 @@ jobs:
       - name: Set up JetBrains Mono font
         run: |
           mkdir -p $HOME/.fonts
-          cp -r fonts/* $HOME/.fonts/Roboto/
+          cp -r fonts/* $HOME/.fonts/
           fc-cache -f -v
         shell: bash
 
