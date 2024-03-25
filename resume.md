@@ -113,7 +113,7 @@ Oct, 2013 - Aug, 2018
 \newpage
 ## References
 
-#### Dana Kostyk   <br /> 
+### Dana Kostyk  
 Manager, Automation and Measurement Engineering  
 SaskEnergy   
 1777 Victoria Ave,   
@@ -121,7 +121,7 @@ Regina, SK S4P 4K5
 Phone: 306 519-4571  
 Email: dkostyk@saskenergy.com  
 
-#### Danielle Janier   <br /> 
+### Danielle Janier   
 Engineer, Automation Engineering  
 SaskEnergy   
 1777 Victoria Ave,   
@@ -129,7 +129,7 @@ Regina, SK S4P 4K5
 Phone: 306 529-1883  
 Email: djanier@saskenergy.com  
 
-#### Matthew Zimroz  <br />  
+### Matthew Zimroz  
 Engineer in Training, Measurement Engineering  
 SaskEnergy   
 1777 Victoria Ave,   
@@ -137,7 +137,7 @@ Regina, SK S4P 4K5
 Phone: 306 510-1160  
 Email: mzimroz@saskenergy.com  
 
-#### Jenna Hrooskin  <br />  
+### Jenna Hrooskin  
 Senior Engineer, Measurement Engineering  
 SaskEnergy   
 1777 Victoria Ave,   
@@ -145,7 +145,7 @@ Regina, SK S4P 4K5
 Phone: 306 519-1877  
 Email: jhrooshkin@saskenergy.com  
 
-#### Geoff Hughes  <br />  
+### Geoff Hughes  
 Engineer, Measurement Engineering  
 SaskEnergy   
 1777 Victoria Ave,   
@@ -153,21 +153,21 @@ Regina, SK S4P 4K5
 Phone: 306 552-7605  
 Email: ghughes@saskenergy.com  
 
-#### Benjamin Pullar  <br />  
+### Benjamin Pullar  
 Engineer in Training, Automation Engineering  
 SaskEnergy   
 1777 Victoria Ave  , 
 Regina, SK S4P 4K5  
 Email: bpullar@saskenergy.com  
 
-#### Majed Obaidan   <br /> 
+### Majed Obaidan  
 Engineer in Training, Automation Engineering  
 SaskEnergy   
 1777 Victoria Ave,   
 Regina, SK S4P 4K5  
 Email: mobaidan@saskenergy.com  
 
-#### Fanhua Zeng   <br />  
+### Fanhua Zeng  
 Professor   
 Energy Systems Engineering,   
 University of Regina 6 Research Drive   
@@ -175,14 +175,14 @@ Regina, SK, S4S 7J7
 Phone: 306-337-2526   
 Email: fanhua.zeng@uregina.ca   
 
-#### Isha Larson   <br />  
+### Isha Larson  
 Volunteer &  Experiential Learning Coordinator   
 Center for Experiential and Service Learning   
 University of Regina   
 Phone: 306-337-3328   
 Email: isha.larson@uregina.ca   
 
-#### Sunday Mba  <br />   
+### Sunday Mba  
 Director   
 OCity Cybernetics Limited   
 Abuja, Nigeria   
