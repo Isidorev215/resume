@@ -19,7 +19,7 @@ pdf:
 		--pdf-engine=xelatex \
 		--variable mainfont="Roboto-Regular" \
 		--variable boldfont="Roboto-Bold" \
-		--variable geometry:margin=2cm \
+		--variable geometry:margin=1cm \
 		--variable fontsize=10pt \
 		--variable documentclass=article \
 		--variable classoption=twoside \

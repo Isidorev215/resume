@@ -4,7 +4,7 @@
 <p align="center">
   <br>
   <samp>
-    「 Petroleum Systems Engineering | Web developer @ <b>University of Regina</b> 
+    「 Petroleum Systems Engineering | Web development @ <b>University of Regina</b> 
   </samp>
 </p>
 <details align="center">
