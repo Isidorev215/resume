@@ -6,15 +6,12 @@ header-includes:
 # Uchenna I. Nwaiwu
 
 639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore
-****
 
 ## Professional Summary
-****
-
 Resourceful and detail-oriented professional with a background in both front-end web development and petroleum systems engineering. Bringing in-depth knowledge of the latest technology trends in web development, I excel in producing clean website designs and handling complex HTML and CSS coding. With experience in collaborating with teams to define project expectations, I am adept at addressing inconsistencies and maintaining performance thresholds. As a progressing expert in petroleum systems engineering, I am proficient in handling complex coding tasks and problem-solving. My adaptable nature allows me to quickly adapt to new technologies and procedures, making me an asset to any project. I am passionate about leveraging my technical skills, teamwork experience, and engineering background to contribute effectively in both web development and engineering domains.
 
 ## Relevant Skills & Accomplihments
-****
+
 ### Technical
 - Industrial Automation coding and debugging (ControlWave Designer and RX Logic) 
 - Conversant with fluid property characterization software and Equation of state (CMG Winprop) 
@@ -39,7 +36,6 @@ Resourceful and detail-oriented professional with a background in both front-end
 
 
 ## Relevant Experiences
-****
 
 ### Automation and Measurement Engineering (Co-op Work Term) - SaskEnergy, Regina, SK 
 
@@ -84,7 +80,7 @@ May, 2017 - Sept, 2017
 - Utilized equipment and processes that help prevent and combat potential pollution caused by petroleum activities
 
 ## Education
-****
+
 ### Master of Engineering - Petroleum systems engineering
 University of Regina, Regina, SK  
 Jan, 2023 - Present
@@ -102,7 +98,6 @@ Oct, 2013 - Aug, 2018
 
 
 ## Memberships & Activities
-****
 
 ### Memberships 
 - Member, Society of Petroleum Engineers, 2015 - Present 
@@ -117,7 +112,7 @@ Oct, 2013 - Aug, 2018
 
 \newpage
 ## References
-****
+
 #### Dana Kostyk
 Manager, Automation and Measurement Engineering  
 SaskEnergy   
