@@ -15,7 +15,7 @@ jobs:
       - name: Set TAG_NAME
         id: set_tag_name
         run: |
-          echo "TAG_NAME=v$(date +'%Y/%m/%d__%H:%M:%S')" >> $GITHUB_ENV
+          echo "TAG_NAME=v$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
         shell: bash
 
       - name: Set up JetBrains Mono font
