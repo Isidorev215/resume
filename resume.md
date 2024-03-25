@@ -3,9 +3,9 @@ header-includes:
   - '\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}'
 ---
 
-# <div style="text-align: center;">Uchenna I. Nwaiwu</div>
+# <center>Uchenna I. Nwaiwu</center>
 
-<div style="text-align: center;">639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore</div>
+<center>639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore</center>
 
 ## Professional Summary
 
@@ -36,78 +36,43 @@ Resourceful and detail-oriented professional with a background in both front-end
 
 
 ## Relevant Experiences
-### 
-<div style="display:flex; justify-content: space-between;">
-  <div>
-    <b>Automation and Measurement Engineering</b>
-   (Co-op Work Term)
-  </div>
-  Sept, 2023 - Present
-</div>
-SaskEnergy, Regina, SK
+
+### Automation and Measurement Engineering (Co-op Work Term) - SaskEnergy, Regina, SK 
+
+Sept, 2023 - Present
 
 - Building & testing PLC and RTU programs for Automation engineering processes
 - Selecting and designing equipment for Measurement engineering applications
 - Creating documentation for Measurement engineering processes and practices
 
-### 
-<div style="display:flex; justify-content: space-between;">
-  <div>
-    <b>Parking Lot Cleaner</b>
-  </div>
-  Apr, 2023 - Present 
-</div>
-Fantastic Cleaning, Regina, SK
+### Parking Lot Cleaner - Fantastic Cleaning, Regina, SK
+Apr, 2023 - Present 
 
 - Clearing snow and ice melt application 
 - Pressure washing smoking patios 
 - Litter picking and garbage bag changing at parking lots
 
-### 
-<div style="display:flex; justify-content: space-between;">
-  <div>
-    <b>Web Developer</b>
-  </div>
-  Oct, 2021 - Dec, 2022 
-</div>
-Ocity Cybernetics Limited, Abuja, Nigeria
+### Web Developer - Ocity Cybernetics Limited, Abuja, Nigeria
+Oct, 2021 - Dec, 2022
 
 - Built, deployed, and maintained web applications using the Vue.js framework
 - Managed versioning of codebase and troubleshooted issues that arise
 - Refactored old code base and implemented new code patterns
 
-### 
-<div style="display:flex; justify-content: space-between;">
-  <div>
-    <b>Web Development Intern</b>
-  </div>
-  Oct, 2020 - Dec, 2020
-</div>
-Sidehustle.ng, Remote
+### Web Development Intern - Sidehustle.ng, Remote
+Oct, 2020 - Dec, 2020
 
 - Developed problem-solving skills while familiarizing myself with web development technologies
 - Facilitated the development of websites in a team using basic web technologies
 
-### 
-<div style="display:flex; justify-content: space-between;">
-  <div>
-    <b>Office Assistant</b>
-  </div>
-  May 2019 - Feb, 2020
-</div>
-National Youth Service Corp (Nigeria Custom Service), Abuja, Nigeria
+### Office Assistant - National Youth Service Corp (Nigeria Custom Service), Abuja, Nigeria
+May 2019 - Feb, 2020
 
 - Assisted auditors in scheduling and keeping records of auditing processes
 - Developed strong interpersonal and communication skills
 
-### 
-<div style="display:flex; justify-content: space-between;">
-  <div>
-    <b>Industrial Trainee</b>
-  </div>
-  May, 2017 - Sept, 2017
-</div>
-Rivers State Ministry of Energy and Natural Resources, Rivers, Nigeria
+### Industrial Trainee - Rivers State Ministry of Energy and Natural Resources, Rivers, Nigeria
+May, 2017 - Sept, 2017
 
 - Intern assisted with petroleum inspections, enforcing environmental regulations to prevent pollution
 - Accompanied engineers to inspect gas stations and crude oil depots (Tank farms)
@@ -115,15 +80,15 @@ Rivers State Ministry of Energy and Natural Resources, Rivers, Nigeria
 - Utilized equipment and processes that help prevent and combat potential pollution caused by petroleum activities
 
 ## Education
-**Master of Engineering - Petroleum systems engineering** </br>
-Jan, 2023 - Present </br>
-University of Regina, Regina, SK </br>
+### Master of Engineering - Petroleum systems engineering
+University of Regina, Regina, SK  
+Jan, 2023 - Present
 
-**Bachelor of Engineering - Petroleum Engineering** </br>
-Oct, 2013 - Aug, 2018 </br>
-Madonna University, Rivers, Nigeria </br>
+### Bachelor of Engineering - Petroleum Engineering
+Madonna University, Rivers, Nigeria  
+Oct, 2013 - Aug, 2018
 
-**Training, Certificates & Licenses**
+### Training, Certificates & Licenses
 - NetNinja Vue.js Course Certificate - Udemy, 2021 
 - Google Africa Developer Training Program Certificate - Pluralsight, 2022 
 - Service Best Certificate - Tourism SK, 2023 
@@ -132,12 +97,15 @@ Madonna University, Rivers, Nigeria </br>
 
 
 ## Memberships & Activities
+
 ### Memberships 
 - Member, Society of Petroleum Engineers, 2015 - Present 
 - Member, Madonna Central Choir, 2015 - Present 
+
 ### Community/Volunteer
 - Volunteer, Regina Food Bank, Winnipeg Regina SK, Feb, 2023 - Feb, 2023
 - Ambassador program, University of Regina, Regina SK, May, 2023 - Present
+
 ### Interests
 - Movies, Basketball, VolleyBall, Taking walks
 

@@ -17,19 +17,19 @@ pdf:
 	cp -r $(FONTS_DIR)/* $(OUTPUT_DIR)/
 	pandoc $(RESUME) -o $(OUTPUT_DIR)/BinhBD_resume-$(BRANCH_NAME).pdf \
 		--pdf-engine=xelatex \
-		--variable mainfont="JetBrainsMono-Regular" \
-		--variable boldfont="JetBrainsMono-Bold" \
-		--variable geometry:margin=1in \
-		--variable fontsize=12pt \
+		--variable mainfont="Roboto-Regular" \
+		--variable boldfont="Roboto-Bold" \
+		--variable geometry:margin=2cm \
+		--variable fontsize=10pt \
 		--variable documentclass=article \
 		--variable classoption=twoside \
-		--variable classoption=a4paper \
+		--variable classoption=letter \
 		--variable lang=en \
 		--variable toc-depth=2 \
 		--variable toc-own-page=true \
 		--variable indent=true \
 		--pdf-engine-opt=--shell-escape \
-    --from markdown+raw_html
+    --from markdown-markdown_in_html_blocks+raw_html
 
 clean:
 	rm -rf $(OUTPUT_DIR)
