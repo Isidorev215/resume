@@ -41,8 +41,8 @@ resume-pdf:
     --from markdown-markdown_in_html_blocks+raw_html
 
 references-pdf:
-  @mkdir -p $(OUTPUT_DIR)
-  pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-web.pdf
+	@mkdir -p $(OUTPUT_DIR)
+	pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-web.pdf
 
 clean:
 	rm -rf $(OUTPUT_DIR)
