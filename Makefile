@@ -2,20 +2,29 @@
 # prerequisites(Mac): pandoc, basictex
 
 RESUME = resume.md
+REFERENCES = references.md
 OUTPUT_DIR = output
 BRANCH_NAME := $(shell git rev-parse --abbrev-ref HEAD)
 FONTS_DIR = fonts
 
 all: docx pdf
 
-docx:
-	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/Uchenna-resume-default.docx
+docx: resume-docx references-docx
 
-pdf:
+resume-docx:
+	@mkdir -p $(OUTPUT_DIR)
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-web.docx
+
+references-docx:
+	@mkdir -p $(OUTPUT_DIR)
+	pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-web.docx
+
+pdf: resume-pdf references-pdf
+
+resume-pdf:
 	@mkdir -p $(OUTPUT_DIR)
 	cp -r $(FONTS_DIR)/* $(OUTPUT_DIR)/
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/Uchenna-resume-default.pdf \
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-web.pdf \
 		--pdf-engine=xelatex \
 		--variable mainfont="Roboto-Regular" \
 		--variable boldfont="Roboto-Bold" \
@@ -30,6 +39,10 @@ pdf:
 		--variable indent=true \
 		--pdf-engine-opt=--shell-escape \
     --from markdown-markdown_in_html_blocks+raw_html
+
+references-pdf:
+  @mkdir -p $(OUTPUT_DIR)
+  pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-web.pdf
 
 clean:
 	rm -rf $(OUTPUT_DIR)

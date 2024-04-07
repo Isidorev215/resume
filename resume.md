@@ -3,18 +3,16 @@ header-includes:
   - '\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}'
 ---
 
-# Uchenna I. Nwaiwu
+# Isidore Uchenna Nwaiwu
 
 639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore
 
 ## Professional Summary
-Resourceful and detail-oriented professional with a background in both front-end web development and petroleum systems engineering. Bringing in-depth knowledge of the latest technology trends in web development, I excel in producing clean website designs and handling complex HTML and CSS coding. With experience in collaborating with teams to define project expectations, I am adept at addressing inconsistencies and maintaining performance thresholds. As a progressing expert in petroleum systems engineering, I am proficient in handling complex coding tasks and problem-solving. My adaptable nature allows me to quickly adapt to new technologies and procedures, making me an asset to any project. I am passionate about leveraging my technical skills, teamwork experience, and engineering background to contribute effectively in both web development and engineering domains.
+Resourceful front-end Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML and CSS coding, design, and extensions to meet organization's front-facing Internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.
 
 ## Relevant Skills & Accomplihments
 
 ### Technical
-- Industrial Automation coding and debugging (ControlWave Designer and RX Logic) 
-- Conversant with fluid property characterization software and Equation of state (CMG Winprop) 
 - Programming languages (JavaScript, Python, Ladder Logic, Function block, Structured text) 
 - Web Frameworks (Vue.js, Svelte, Nuxt, React) 
 - Backend (Node.js, Express, MongoDB, Mongoose, Firebase) 
@@ -44,13 +42,6 @@ Sept, 2023 - Present
 - Building & testing PLC and RTU programs for Automation engineering processes
 - Selecting and designing equipment for Measurement engineering applications
 - Creating documentation for Measurement engineering processes and practices
-
-### Parking Lot Cleaner - Fantastic Cleaning, Regina, SK
-Apr, 2023 - Present 
-
-- Clearing snow and ice melt application 
-- Pressure washing smoking patios 
-- Litter picking and garbage bag changing at parking lots
 
 ### Web Developer - Ocity Cybernetics Limited, Abuja, Nigeria
 Oct, 2021 - Dec, 2022
@@ -91,11 +82,7 @@ Oct, 2013 - Aug, 2018
 
 ### Training, Certificates & Licenses
 - NetNinja Vue.js Course Certificate - Udemy, 2021 
-- Google Africa Developer Training Program Certificate - Pluralsight, 2022 
-- Service Best Certificate - Tourism SK, 2023 
-- Serve It Right Certificate - Tourism SK, 2023 
-- WHMIS – WorkSafe Saskatchewan, 2023
-
+- Google Africa Developer Training Program Certificate - Pluralsight, 2022
 
 ## Memberships & Activities
 
@@ -108,84 +95,9 @@ Oct, 2013 - Aug, 2018
 - Ambassador program, University of Regina, Regina SK, May, 2023 - Present
 
 ### Interests
-- Movies, Basketball, VolleyBall, Taking walks
+- Movies, Basketball, VolleyBall
 
-\newpage
 ## References
+Available upon request
 
-### Dana Kostyk  
-Manager, Automation and Measurement Engineering  
-SaskEnergy   
-1777 Victoria Ave,   
-Regina, SK S4P 4K5  
-Phone: 306 519-4571  
-Email: dkostyk@saskenergy.com  
-
-### Danielle Janier   
-Engineer, Automation Engineering  
-SaskEnergy   
-1777 Victoria Ave,   
-Regina, SK S4P 4K5  
-Phone: 306 529-1883  
-Email: djanier@saskenergy.com  
-
-### Matthew Zimroz  
-Engineer in Training, Measurement Engineering  
-SaskEnergy   
-1777 Victoria Ave,   
-Regina, SK S4P 4K5  
-Phone: 306 510-1160  
-Email: mzimroz@saskenergy.com  
-
-### Jenna Hrooskin  
-Senior Engineer, Measurement Engineering  
-SaskEnergy   
-1777 Victoria Ave,   
-Regina, SK S4P 4K5  
-Phone: 306 519-1877  
-Email: jhrooshkin@saskenergy.com  
-
-### Geoff Hughes  
-Engineer, Measurement Engineering  
-SaskEnergy   
-1777 Victoria Ave,   
-Regina, SK S4P 4K5  
-Phone: 306 552-7605  
-Email: ghughes@saskenergy.com  
-
-### Benjamin Pullar  
-Engineer in Training, Automation Engineering  
-SaskEnergy   
-1777 Victoria Ave  , 
-Regina, SK S4P 4K5  
-Email: bpullar@saskenergy.com  
-
-### Majed Obaidan  
-Engineer in Training, Automation Engineering  
-SaskEnergy   
-1777 Victoria Ave,   
-Regina, SK S4P 4K5  
-Email: mobaidan@saskenergy.com  
-
-### Fanhua Zeng  
-Professor   
-Energy Systems Engineering,   
-University of Regina 6 Research Drive   
-Regina, SK, S4S 7J7   
-Phone: 306-337-2526   
-Email: fanhua.zeng@uregina.ca   
-
-### Isha Larson  
-Volunteer &  Experiential Learning Coordinator   
-Center for Experiential and Service Learning   
-University of Regina   
-Phone: 306-337-3328   
-Email: isha.larson@uregina.ca   
-
-### Sunday Mba  
-Director   
-OCity Cybernetics Limited   
-Abuja, Nigeria   
-Phone: +2348136830830   
-Email: info@ocity.ng  
 
