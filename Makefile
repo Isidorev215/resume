@@ -10,12 +10,12 @@ all: docx pdf
 
 docx:
 	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/Uchenna-resume-default.docx
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-default.docx
 
 pdf:
 	@mkdir -p $(OUTPUT_DIR)
 	cp -r $(FONTS_DIR)/* $(OUTPUT_DIR)/
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/Uchenna-resume-default.pdf \
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-default.pdf \
 		--pdf-engine=xelatex \
 		--variable mainfont="Roboto-Regular" \
 		--variable boldfont="Roboto-Bold" \

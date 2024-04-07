@@ -3,7 +3,7 @@ header-includes:
   - '\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}'
 ---
 
-# Uchenna I. Nwaiwu
+# Isidore Uchenna Nwaiwu
 
 639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore
 
