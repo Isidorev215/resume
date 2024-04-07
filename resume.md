@@ -8,20 +8,19 @@ header-includes:
 639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore
 
 ## Professional Summary
-Resourceful front-end Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML and CSS coding, design, and extensions to meet organization's front-facing Internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.
+Dynamic and motivated individual eager to launch a successful career in the engineering. Armed with a strong foundation in engineering principles and practical experience, I am adept at tackling challenges and driving innovation. With a collaborative mindset and keen attention to detail. Committed to continuous learning, I am poised to contribute effectively to engineering projects and make a positive impact in the industry.
 
 ## Relevant Skills & Accomplihments
 
 ### Technical
+- Industrial Automation coding and debugging (ControlWave Designer and RX Logic)
+- Conversant with fluid property characterization software and Equation of state (CMG Winprop)
 - Programming languages (JavaScript, Python, Ladder Logic, Function block, Structured text) 
 - Web Frameworks (Vue.js, Svelte, Nuxt, React) 
 - Backend (Node.js, Express, MongoDB, Mongoose, Firebase) 
 - CSS (Bootstrap, SCSS, TailwindCSS) 
 - Additional (Vuex, Pinia, Redux, Git, SEO Techniques, Code Debugging, Cross Browser Compatibility, MVC Architecture) 
 - Microsoft Office Suite (Excel, Word, PowerPoint) 
-
-### Projects
-1. [SuitsByHarvey](https://suitsbyharvey.web.app/) - A portfolio project that displays suit combinations based on suggestions by Steve Harvey.
 
 ### Transferrable
 
@@ -49,12 +48,6 @@ Oct, 2021 - Dec, 2022
 - Built, deployed, and maintained web applications using the Vue.js framework
 - Managed versioning of codebase and troubleshooted issues that arise
 - Refactored old code base and implemented new code patterns
-
-### Web Development Intern - Sidehustle.ng, Remote
-Oct, 2020 - Dec, 2020
-
-- Developed problem-solving skills while familiarizing myself with web development technologies
-- Facilitated the development of websites in a team using basic web technologies
 
 ### Office Assistant - National Youth Service Corp (Nigeria Custom Service), Abuja, Nigeria
 May 2019 - Feb, 2020
