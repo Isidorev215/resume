@@ -10,7 +10,7 @@ header-includes:
 ## Professional Summary
 Dynamic and motivated individual eager to launch a successful career in the engineering. Armed with a strong foundation in engineering principles and practical experience, I am adept at tackling challenges and driving innovation. With a collaborative mindset and keen attention to detail. Committed to continuous learning, I am poised to contribute effectively to engineering projects and make a positive impact in the industry.
 
-## Relevant Skills & Accomplihments
+## Relevant Skills
 
 ### Technical
 - Industrial Automation coding and debugging (ControlWave Designer and RX Logic)
