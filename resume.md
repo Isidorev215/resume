@@ -10,7 +10,7 @@ header-includes:
 ## Professional Summary
 Resourceful front-end Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML and CSS coding, design, and extensions to meet organization's front-facing Internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.
 
-## Relevant Skills & Accomplihments
+## Relevant Skills & Accomplishments
 
 ### Technical
 - Programming languages (JavaScript, Python, Ladder Logic, Function block, Structured text) 
