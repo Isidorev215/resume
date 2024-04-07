@@ -13,18 +13,18 @@ docx: resume-docx references-docx
 
 resume-docx:
 	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-web.docx
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-engg.docx
 
 references-docx:
 	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-web.docx
+	pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-engg.docx
 
 pdf: resume-pdf references-pdf
 
 resume-pdf:
 	@mkdir -p $(OUTPUT_DIR)
 	cp -r $(FONTS_DIR)/* $(OUTPUT_DIR)/
-	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-web.pdf \
+	pandoc $(RESUME) -o $(OUTPUT_DIR)/Isidore-resume-engg.pdf \
 		--pdf-engine=xelatex \
 		--variable mainfont="Roboto-Regular" \
 		--variable boldfont="Roboto-Bold" \
@@ -42,7 +42,7 @@ resume-pdf:
 
 references-pdf:
 	@mkdir -p $(OUTPUT_DIR)
-	pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-web.pdf
+	pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-engg.pdf
 
 clean:
 	rm -rf $(OUTPUT_DIR)
