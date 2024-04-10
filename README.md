@@ -1,5 +1,5 @@
 <h3 align="center">
-  <samp>Hello! I am <b><a target="_blank" href="https://github.com/Isidorev215">Uchenna Isidore Nwaiwu</a></b></samp>
+  <samp>Hello! I am <b><a target="_blank" href="https://github.com/Isidorev215">Isidore Uchenna Nwaiwu</a></b></samp>
 </h3>
 <p align="center">
   <br>
