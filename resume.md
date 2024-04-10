@@ -1,16 +1,24 @@
----
-header-includes:
-  - '\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}'
----
 
-# Isidore Uchenna Nwaiwu
+\begin{center}
+{\LARGE\textbf{
+Isidore Uchenna Nwaiwu
+}
+}
+\end{center}
 
+\begin{center}
 639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore
+\end{center}
 
 ## Professional Summary
+\hrulefill
+\vspace{5pt}
+
 Dynamic and motivated individual eager to launch a successful career in the engineering. Armed with a strong foundation in engineering principles and practical experience, I am adept at tackling challenges and driving innovation. With a collaborative mindset and keen attention to detail. Committed to continuous learning, I am poised to contribute effectively to engineering projects and make a positive impact in the industry.
 
 ## Relevant Skills
+\hrulefill
+\vspace{5pt}
 
 ### Technical
 - Industrial Automation coding and debugging (ControlWave Designer and RX Logic)
@@ -33,6 +41,8 @@ Dynamic and motivated individual eager to launch a successful career in the engi
 
 
 ## Relevant Experiences
+\hrulefill
+\vspace{5pt}
 
 ### Automation and Measurement Engineering (Co-op Work Term) - SaskEnergy, Regina, SK 
 
@@ -64,6 +74,8 @@ May, 2017 - Sept, 2017
 - Utilized equipment and processes that help prevent and combat potential pollution caused by petroleum activities
 
 ## Education
+\hrulefill
+\vspace{5pt}
 
 ### Master of Engineering - Petroleum systems engineering
 University of Regina, Regina, SK  
@@ -78,6 +90,8 @@ Oct, 2013 - Aug, 2018
 - Google Africa Developer Training Program Certificate - Pluralsight, 2022
 
 ## Memberships & Activities
+\hrulefill
+\vspace{5pt}
 
 ### Memberships 
 - Member, Society of Petroleum Engineers, 2015 - Present 
@@ -91,6 +105,7 @@ Oct, 2013 - Aug, 2018
 - Movies, Basketball, VolleyBall
 
 ## References
-Available upon request
+\hrulefill
+\vspace{5pt}
 
-
+Available on request
