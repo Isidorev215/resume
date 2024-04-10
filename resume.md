@@ -1,8 +1,14 @@
 
+\begin{center}
+{\LARGE\textbf{
+Isidore Uchenna Nwaiwu
+}
+}
+\end{center}
 
-# Isidore Uchenna Nwaiwu
-
+\begin{center}
 639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore
+\end{center}
 
 ## Professional Summary
 \hrulefill
