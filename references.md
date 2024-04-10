@@ -5,7 +5,8 @@ header-includes:
 
 
 ## References
-Available upon request
+\hrulefill
+\vspace{5pt}
 
 ### Dana Kostyk  
 Manager, Automation and Measurement Engineering  

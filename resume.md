@@ -1,16 +1,23 @@
----
-header-includes:
-  - '\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}'
----
+\begin{center}
+{\LARGE\textbf{
+Isidore Uchenna Nwaiwu
+}
+}
+\end{center}
 
-# Isidore Uchenna Nwaiwu
-
+\begin{center}
 639-382-7322 | nwaiwuisidore@gmail.com | Regina, SK | https://linkedin.com/in/nwaiwu-isidore
+\end{center}
 
 ## Professional Summary
+\hrulefill
+\vspace{5pt}
+
 Resourceful front-end Web Developer bringing in-depth knowledge of latest technology trends to produce clean website design. Experience handling complex HTML and CSS coding, design, and extensions to meet organization's front-facing Internet needs. Detail-oriented collaboration with others to define project expectations and demand. Hands-on testing and debugging to address inconsistencies and maintain performance thresholds.
 
 ## Relevant Skills & Accomplishments
+\hrulefill
+\vspace{5pt}
 
 ### Technical
 - Programming languages (JavaScript, Python, Ladder Logic, Function block, Structured text) 
@@ -34,6 +41,8 @@ Resourceful front-end Web Developer bringing in-depth knowledge of latest techno
 
 
 ## Relevant Experiences
+\hrulefill
+\vspace{5pt}
 
 ### Automation and Measurement Engineering (Co-op Work Term) - SaskEnergy, Regina, SK 
 
@@ -71,6 +80,8 @@ May, 2017 - Sept, 2017
 - Utilized equipment and processes that help prevent and combat potential pollution caused by petroleum activities
 
 ## Education
+\hrulefill
+\vspace{5pt}
 
 ### Master of Engineering - Petroleum systems engineering
 University of Regina, Regina, SK  
@@ -85,6 +96,8 @@ Oct, 2013 - Aug, 2018
 - Google Africa Developer Training Program Certificate - Pluralsight, 2022
 
 ## Memberships & Activities
+\hrulefill
+\vspace{5pt}
 
 ### Memberships 
 - Member, Society of Petroleum Engineers, 2015 - Present 
@@ -98,6 +111,8 @@ Oct, 2013 - Aug, 2018
 - Movies, Basketball, VolleyBall
 
 ## References
+\hrulefill
+\vspace{5pt}
 Available upon request
 
 

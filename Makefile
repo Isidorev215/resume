@@ -44,6 +44,22 @@ references-pdf:
 	@mkdir -p $(OUTPUT_DIR)
 	pandoc $(REFERENCES) -o $(OUTPUT_DIR)/references-web.pdf
 
+local:
+	pandoc $(RESUME) -o resume.pdf \
+		--pdf-engine=xelatex \
+		--variable geometry:margin=1cm \
+		--variable fontsize=10pt \
+		--variable documentclass=article \
+		--variable classoption=twoside \
+		--variable classoption=letter \
+		--variable lang=en \
+		--variable toc-depth=2 \
+		--variable toc-own-page=true \
+		--variable indent=true \
+		--pdf-engine-opt=--shell-escape \
+    --from markdown-markdown_in_html_blocks+raw_html
+
+
 clean:
 	rm -rf $(OUTPUT_DIR)
 
